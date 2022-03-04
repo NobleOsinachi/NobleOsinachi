@@ -12,7 +12,7 @@ Permit me to toot my horn a little 😊
   - Database (SQL Server)
   <!-- Infrastructure: Digital Ocean, AWS, Heroku-->
 
-- 🔭 I’m currently working on a bookstore app built with Angular 😍 and ASP .NET Core as server-side language. Progress can be seen [here](https://elbon-concepts.netlify.app)
+- 🔭 I’m currently working on a bookstore app built with Angular 😍 and ASP .NET Core as server-side language. Progress can be seen [here](https://elbon-bookworm.netlify.app)
 
 - 🌱 I’m currently learning the MEAN (MongoDB Express Angular Node) stack
 <!-- - 👯 I’m looking to collaborate on ...
