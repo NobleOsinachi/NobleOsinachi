@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
  <o:MainFile HRef="../OmegaPro%20Manual.htm"/>
  <o:File HRef="item0001.xml"/>
@@ -10,4 +11,18 @@
  <o:File HRef="image002.png"/>
  <o:File HRef="header.htm"/>
  <o:File HRef="filelist.xml"/>
+=======
+<xml xmlns:o="urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef="../OmegaPro%20Manual.htm"/>
+ <o:File HRef="item0001.xml"/>
+ <o:File HRef="props002.xml"/>
+ <o:File HRef="item0003.xml"/>
+ <o:File HRef="props004.xml"/>
+ <o:File HRef="themedata.thmx"/>
+ <o:File HRef="colorschememapping.xml"/>
+ <o:File HRef="image001.png"/>
+ <o:File HRef="image002.png"/>
+ <o:File HRef="header.htm"/>
+ <o:File HRef="filelist.xml"/>
+>>>>>>> aa0d4b177581b698a501314aee356e9ca3ee8e02
 </xml>
