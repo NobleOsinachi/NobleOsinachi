@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="32" />, I'm Noble Osinachi </h1>
 <h3 align="center">Hope you are doing well... </h3>
 
@@ -61,35 +60,3 @@
 <a href="https://www.youtube.com/@NobleOsinachi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" width="10%" /></a>
 <a href="https://discordapp.com/users/850880785653170206" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg" alt="NobleOsinachi#6375" width="10%" /></a>
 </p>
-=======
-### Hi there! 👋
-
-I'm Noble, a .NET software developer and systems engineer with about 3 years of hands-on experience building scalable, responsive software that adheres to best coding principles.
-
-Permit me to toot my horn a little 😊
-
-- My technology stack includes
-
-  - C# (ASP .NET Core, Entity Framework)
-  - Javascript (Angular, TypeScript, Node)
-  - Python (Django)
-  - Database (SQL Server)
-  <!-- Infrastructure: Digital Ocean, AWS, Heroku-->
-
-- 🔭 I’m currently working on a bookstore app built with Angular 😍 and ASP .NET Core as server-side language. Progress can be seen [here](https://elbon-bookworm.netlify.app)
-
-- 🌱 I’m currently learning the MEAN (MongoDB Express Angular Node) stack
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-  -->
-
-- 📫 How to reach me:
-  - Twitter: [@NobleOsinachi](https://www.twitter.com/NobleOsinachi)
-
-  - Instagram: [@NobleOsinachi](https://www.instagram.com/NobleOsinachi)
-
-  - LinkedIn: [Noble Chukwukere](https://www.linkedin.com/in/noble-chukwukere-2747b018b)
-- 😄 Pronouns: Sir (!important)
-- ⚡ Fun fact: I love puns (wordplay). Starting a convo with one keeps the energy flowing.
->>>>>>> aa0d4b177581b698a501314aee356e9ca3ee8e02

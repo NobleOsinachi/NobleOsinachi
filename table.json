@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿[
 	{
 		"package": "",
@@ -25,31 +24,3 @@
 		"weekly_earning_cap": ""
 	}
 ]
-=======
-﻿[
-	{
-		"package": "",
-		"cost": "",
-		"activation_fee": 49,
-		"total_cost": "",
-		"naira": "",
-		"weekly_earning_cap": ""
-	},
-	{
-		"package": "",
-		"cost": "",
-		"activation_fee": 49,
-		"total_cost": "",
-		"naira": "",
-		"weekly_earning_cap": ""
-	},
-	{
-		"package": "",
-		"cost": "",
-		"activation_fee": 49,
-		"total_cost": "",
-		"naira": "",
-		"weekly_earning_cap": ""
-	}
-]
->>>>>>> aa0d4b177581b698a501314aee356e9ca3ee8e02
