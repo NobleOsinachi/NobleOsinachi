@@ -1,6 +1,6 @@
 <?php
 
-class Logger {
+class Value{
 
     
 }
