@@ -15,13 +15,15 @@ git checkout -b ${branchName}
 
 git add .
 
-git commit -m "Created ${branchName} branch"
+git commit -m "Created ${branchName} branch \n\nCo-authored-by: Noble Osinachi <nobleosinachi98@gmail.com>\nCo-authored-by: David Oluwasegun <oluwasegundavid7@gmail.com>\nCo-authored-by: iAmGolden <chuksgold29@gmail.com>
+\nCo-authored-by: David Reiss <dreiss@fb.com>
+"
 
 git pull origin main
 
 git push -u origin ${branchName}
 
-hub pull-request -m "Created ${branchName} branch \n\nCo-authored-by: Noble Osinachi <nobleosinachi98@gmail.com>\nCo-authored-by: David Oluwasegun <oluwasegundavid7@gmail.com>\nCo-authored-by: iAmGolden <chuksgold29@gmail.com>" -h patch-2 -b main -f
+hub pull-request -m "Created ${branchName} branch" -h patch-2 -b main -f
 
 # Only delete branch after all pulls have been merged by Golden
 # git branch -d ${branchName}
