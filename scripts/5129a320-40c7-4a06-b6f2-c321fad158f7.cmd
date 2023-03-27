@@ -5,11 +5,11 @@ cd "C:/Users/Noble/SOURCES/REPOS/test"
 
 git pull origin main
 
-git checkout -b 5685f4ce
+git checkout -b 5129a320
 
 git add .
 
-git commit -m "Created 5685f4ce branch 
+git commit -m "Created 5129a320 branch 
 
 Co-authored-by: Noble Osinachi <nobleosinachi98@gmail.com>
 Co-authored-by: David Oluwasegun <oluwasegundavid7@gmail.com>
@@ -20,12 +20,12 @@ Co-authored-by: David Reiss <dreiss@fb.com>
 
 git pull origin main
 
-git push -u origin 5685f4ce
+git push -u origin 5129a320
 
-hub pull-request -m "Created 5685f4ce branch" -h patch-2 -b main -f
+hub pull-request -m "Created 5129a320 branch" -h patch-2 -b main -f
 
 # Only delete branch after all pulls have been merged by Golden
-# git branch -d 5685f4ce
+# git branch -d 5129a320
 
-# git push origin --delete 5685f4ce
+# git push origin --delete 5129a320
 
