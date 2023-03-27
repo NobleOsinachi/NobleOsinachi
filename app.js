@@ -40,7 +40,7 @@ fs.writeFile(file, fileContent, (err) => {
     console.log('The file has been created!');
 
     // execute the cmd file in a new command prompt window
-    let command = `start cmd /c ${file}`;
+    let command = `start powershell /c ${file}`;
     console.log(command);
 
     exec(command, (error, stdout, stderr) => {
