@@ -58,4 +58,3 @@ fs.writeFile(file, fileContent, (err) => {
         console.log(`stdout: ${stdout}`);
     });
 });
->>>>>>> 3c35da68d2e562ad83fa1647cbeabc26fba630bd
