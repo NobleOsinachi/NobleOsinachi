@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 const { v4: uuidv4 } = require('uuid');
 const { exec } = require('child_process');
 const fs = require('fs');
@@ -16,11 +14,7 @@ git checkout -b ${branchName}
 
 git add .
 
-git commit -m "Created ${branchName} branch \n\nCo-authored-by: Noble Osinachi <nobleosinachi98@gmail.com>\nCo-authored-by: David Oluwasegun <oluwasegundavid7@gmail.com>\nCo-authored-by: iAmGolden <chuksgold29@gmail.com>\nCo-authored-by: Ibukun <ibukunoladipupo10@gmail.com>\nCo-authored-by: Sanowar Sunny <ibukunoladipupo10@gmail.com>
-
-SANOWAR HOSSAIN SUNNY sanowarhossain3843@gmail.com
-
-"
+git commit -m "Created ${branchName} branch ^\n\nCo-authored-by: Noble Osinachi <nobleosinachi98@gmail.com> ^\nCo-authored-by: David Oluwasegun <oluwasegundavid7@gmail.com> ^\nCo-authored-by: iAmGolden <chuksgold29@gmail.com> ^\nCo-authored-by: Ibukun <ibukunoladipupo10@gmail.com> ^\nCo-authored-by: Sanowar Sunny <ibukunoladipupo10@gmail.com"
 
 git pull origin main
 
@@ -32,7 +26,6 @@ hub pull-request -m "Created ${branchName} branch" -h ${branchName} -b main -f
 # git branch -d ${branchName}
 
 # git push origin --delete ${branchName}
-
 `;
 
 
@@ -58,4 +51,3 @@ fs.writeFile(file, fileContent, (err) => {
         console.log(`stdout: ${stdout}`);
     });
 });
->>>>>>> 3c35da68d2e562ad83fa1647cbeabc26fba630bd
