@@ -1,7 +1,7 @@
 {
   "name": "test",
   "version": "1.0.0",
-  "description": "\"# test\" \r \"# test\" \r \"# test\"",
+  "description": "Exploring Github",
   "main": "app.js",
   "scripts": {
     "start": "tsc && node index.js",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/NobleOsinachi/test/issues"
   },
-  "homepage": "https://github.com/NobleOsinachi/test#readme"
+  "homepage": "https://github.com/NobleOsinachi/test#readme",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
 }
