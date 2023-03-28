@@ -3,9 +3,10 @@ const { exec } = require('child_process');
 const fs = require('fs');
 
 const fileName = uuidv4();
-const branchName = fileName.substring(0, 8);
-const fileContent = `color 0a
 
+const branchName = fileName.substring(0, 8);
+
+const fileContent = `
 cd "C:\\Users\\Noble\\SOURCES\\REPOS\\test"
 
 git pull origin main
@@ -42,7 +43,6 @@ fs.writeFile(file, fileContent, (err) => {
 
     //run in powershell instead 
     command = `start powershell .\\${file}`;
-
 
     console.log(command);
 
