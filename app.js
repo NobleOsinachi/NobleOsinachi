@@ -40,7 +40,7 @@ fs.writeFile(file, fileContent, (err) => {
     let command = `start cmd /c ${file}`;
 
     //run in powershell instead 
-    command = `powershell .\\${file}`;
+    command = `start powershell .\\${file}`;
 
 
     console.log(command);
