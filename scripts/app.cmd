@@ -1,5 +1,5 @@
 @ECHO off
-# color 0a
+color 0a
 
 cd "C:/Users/Noble/SOURCES/REPOS/test"
 
