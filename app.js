@@ -7,7 +7,7 @@ const branchName = fileName.substring(0, 8);
 const fileContent = `
 # color 0a
 
-cd "C:/Users/Noble/SOURCES/REPOS/test"
+cd "C:\\Users\\Noble\\SOURCES\\REPOS\\test"
 
 git pull origin main
 
@@ -15,8 +15,7 @@ git checkout -b ${branchName}
 
 git add .
 
-git commit -m "Created ${branchName} branch \n\nCo-authored-by: Noble Osinachi <nobleosinachi98@gmail.com>\nCo-authored-by: David Oluwasegun <oluwasegundavid7@gmail.com>\nCo-authored-by: iAmGolden <chuksgold29@gmail.com>
-\nCo-authored-by: David Reiss <dreiss@fb.com>
+git commit -m "Created ${branchName} branch \n\nCo-authored-by: Noble Osinachi <nobleosinachi98@gmail.com>\nCo-authored-by: David Oluwasegun <oluwasegundavid7@gmail.com>\nCo-authored-by: iAmGolden <chuksgold29@gmail.com>\nCo-authored-by: Ibukun <ibukunoladipupo10@gmail.com>
 "
 
 git pull origin main
