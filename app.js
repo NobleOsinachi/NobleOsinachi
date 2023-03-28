@@ -5,15 +5,8 @@ const fs = require('fs');
 const fileName = uuidv4();
 
 const branchName = fileName.substring(0, 8);
-<<<<<<< HEAD
 
 const fileContent = `
-=======
-
-
-const fileContent = `
-
->>>>>>> b5e0ac32a3a8a285dac70282f090d5c4241675d5
 cd "C:\\Users\\Noble\\SOURCES\\REPOS\\test"
 
 git pull origin main
