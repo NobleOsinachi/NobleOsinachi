@@ -5,7 +5,7 @@ const fs = require('fs');
 const fileName = uuidv4();
 const branchName = fileName.substring(0, 8);
 const fileContent = `
-color 0a
+# color 0a
 
 cd "C:/Users/Noble/SOURCES/REPOS/test"
 

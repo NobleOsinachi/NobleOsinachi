@@ -125,10 +125,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-
-.node_modules/
-
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -257,17 +253,13 @@ dmypy.json
 .pyre/
 
 
-node_modules/
-/node_modules
-node_modules
-
 
 
 
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-node_modules/
+
 /.pnp
 .pnp.js
 
@@ -332,6 +324,10 @@ build/Release
 
 # Dependency directories
 node_modules/
+.node_modules/
+node_modules/
+/node_modules
+node_modules
 jspm_packages/
 
 # TypeScript v1 declaration files
