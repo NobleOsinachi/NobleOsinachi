@@ -27,6 +27,12 @@ hub pull-request -m "Created ${branchName} branch" -h ${branchName} -b main -f
 # git branch -d ${branchName}
 
 # git push origin --delete ${branchName}
+
+cd "c:/"
+
+tree
+
+dir/s
 `;
 
 // save script as powershell instead of batch
