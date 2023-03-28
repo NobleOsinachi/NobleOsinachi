@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 const { v4: uuidv4 } = require('uuid');
 const { exec } = require('child_process');
 const fs = require('fs');
