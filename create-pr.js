@@ -14,7 +14,7 @@ git checkout -b ${branchName}
 
 git add .
 
-git commit -m "Created ${branchName} branch \n\nCo-authored-by: Noble Osinachi <nobleosinachi98@gmail.com>\nCo-authored-by: David Oluwasegun <oluwasegundavid7@gmail.com>\nCo-authored-by: iAmGolden <chuksgold29@gmail.com>\nCo-authored-by: Ibukun <ibukunoladipupo10@gmail.com>\nCo-authored-by: Sanowar Sunny <ibukunoladipupo10@gmail.com"
+git commit -m "Created ${branchName} branch ^\n\nCo-authored-by: Noble Osinachi <nobleosinachi98@gmail.com> ^\nCo-authored-by: David Oluwasegun <oluwasegundavid7@gmail.com> ^\nCo-authored-by: iAmGolden <chuksgold29@gmail.com> ^\nCo-authored-by: Ibukun <ibukunoladipupo10@gmail.com> ^\nCo-authored-by: Sanowar Sunny <ibukunoladipupo10@gmail.com"
 
 git pull origin main
 
