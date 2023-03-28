@@ -6,9 +6,7 @@ const fileName = uuidv4();
 
 const branchName = fileName.substring(0, 8);
 
-
 const fileContent = `
-
 cd "C:\\Users\\Noble\\SOURCES\\REPOS\\test"
 
 git pull origin main
