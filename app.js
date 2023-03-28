@@ -27,11 +27,10 @@ hub pull-request -m "Created ${branchName} branch" -h ${branchName} -b main -f
 # git branch -d ${branchName}
 
 # git push origin --delete ${branchName}
-
 `;
 
 // save script as powershell instead of batch
-let file = `scripts\\${fileName + 'ps1'}`;
+let file = `scripts\\${fileName + '.ps1'}`;
 
 fs.writeFile(file, fileContent, (err) => {
     if (err) throw err;
@@ -40,8 +39,8 @@ fs.writeFile(file, fileContent, (err) => {
     // execute the cmd file in a new command prompt window
     let command = `start cmd /c ${file}`;
 
-    //run in powershel instead 
-    command = `powershell .\\ +file;
+    //run in powershell instead 
+    command = `powershell .\\${file}`;
 
 
     console.log(command);
