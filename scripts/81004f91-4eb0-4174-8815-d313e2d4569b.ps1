@@ -3,11 +3,11 @@ cd "C:\Users\Noble\SOURCES\REPOS\test"
 
 git pull origin main
 
-git checkout -b b97e3340
+git checkout -b 81004f91
 
 git add .
 
-git commit -m "Created b97e3340 branch 
+git commit -m "Created 81004f91 branch
 
 Co-authored-by: Noble Osinachi <nobleosinachi98@gmail.com>
 Co-authored-by: David Oluwasegun <oluwasegundavid7@gmail.com>
@@ -18,12 +18,11 @@ Co-authored-by: Sanowar Sunny <sanowarhossain3843@gmail.com>
 
 git pull origin main
 
-git push -u origin b97e3340
+git push -u origin 81004f91
 
-hub pull-request -m "Created b97e3340 branch" -h b97e3340 -b main -f
+hub pull-request -m "Created 81004f91 branch" -h 81004f91 -b main -f
 
 # Only delete branch after all pulls have been merged by Golden
-# git branch -d b97e3340
+# git branch -d 81004f91
 
-# git push origin --delete b97e3340
-
+# git push origin --delete 81004f91

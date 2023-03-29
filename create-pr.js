@@ -15,7 +15,15 @@ git checkout -b ${branchName}
 
 git add .
 
-git commit -m "Created ${branchName} branch \n\nCo-authored-by: Noble Osinachi <nobleosinachi98@gmail.com>\nCo-authored-by: David Oluwasegun <oluwasegundavid7@gmail.com>\nCo-authored-by: iAmGolden <chuksgold29@gmail.com>\nCo-authored-by: Ibukun <ibukunoladipupo10@gmail.com>\nCo-authored-by: Sanowar Sunny <sanowarhossain3843@gmail.com>
+git commit -m "Created ${branchName} branch
+
+Co-authored-by: Noble Osinachi <nobleosinachi98@gmail.com>
+Co-authored-by: David Oluwasegun <oluwasegundavid7@gmail.com>
+Co-authored-by: iAmGolden <chuksgold29@gmail.com>
+Co-authored-by: Ibukun <ibukunoladipupo10@gmail.com>
+Co-authored-by: Sanowar Sunny <sanowarhossain3843@gmail.com>
+Co-authored-by: Ifedayo Karim <karimjnr@gmail.com>
+Co-authored-by: Will Bailey <will.bailey@gmail.com>
 "
 
 git pull origin main
@@ -28,7 +36,6 @@ hub pull-request -m "Created ${branchName} branch" -h ${branchName} -b main -f
 # git branch -d ${branchName}
 
 # git push origin --delete ${branchName}
-
 `;
 
 // save script as powershell instead of batch
