@@ -22,6 +22,8 @@ Co-authored-by: David Oluwasegun <oluwasegundavid7@gmail.com>
 Co-authored-by: iAmGolden <chuksgold29@gmail.com>
 Co-authored-by: Ibukun <ibukunoladipupo10@gmail.com>
 Co-authored-by: Sanowar Sunny <sanowarhossain3843@gmail.com>
+Co-authored-by: Ifedayo Karim <karimjnr@gmail.com>
+Co-authored-by: Will Bailey <will.bailey@gmail.com>
 "
 
 git pull origin main
