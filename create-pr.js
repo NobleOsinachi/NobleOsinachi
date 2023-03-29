@@ -17,15 +17,14 @@ git add .
 
 git commit -m "Created ${branchName} branch
 
-Co-authored-by: Noble Osinachi <nobleosinachi98@gmail.com>
-Co-authored-by: David Oluwasegun <oluwasegundavid7@gmail.com>
 Co-authored-by: iAmGolden <chuksgold29@gmail.com>
 Co-authored-by: Ibukun <ibukunoladipupo10@gmail.com>
-Co-authored-by: Sanowar Sunny <sanowarhossain3843@gmail.com>
-Co-authored-by: Ifedayo Karim <karimjnr@gmail.com>
-Co-authored-by: Will Bailey <will.bailey@gmail.com>
-Co-authored-by: Myo Naing Winn <myonaingwin.gic@gmail.com>
-Co-authored-by: Dev Kalra <dev10kalra@gmail.com>
+Co-authored-by: Isaac Bassey <chartobyson2025@gmail.com>
+Co-authored-by: Precious Adedibu <adedibuprecious@gmail.com>
+Co-authored-by: David Oluwasegun <oluwasegundavid7@gmail.com>
+Co-authored-by: PraiseGeek <praisegeek@gmail.com>
+Co-authored-by: Sanowar Sunny <sanowarhossain343@gmail.com>
+Co-authored-by: Noble Osinachi <150407018@live.unilag.edu.ng>
 "
 
 git pull origin main
