@@ -20,6 +20,7 @@ Co-authored-by: Jared Collier <jared.j.collier@gmail.com>
 Co-authored-by: Rogelio Morrell <molekilla@gmail.com>
 Co-authored-by: Abdulazeez <abdulazeezsalihu41@gmail.com>
 Co-authored-by: Nicolas Riesco <enquiries@nicolasriesco.net>
+
 Co-authored-by: Ashley Davis ashley@<codecapers.com.au>
 Co-authored-by: George Cheng <Gerhut@GMail.com>
 Co-authored-by: Jay <jasonsaayman@gmail.com>
@@ -27,12 +28,23 @@ Co-authored-by: Kevin Kirsche Kev.Kirsche+<GitHub@gmail.com>
 Co-authored-by: Remco Haszing <remcohaszing@gmail.com>
 Co-authored-by: Taemin Shin <cprayer13@gmail.com>
 Co-authored-by: Tim Gates tim.<gates@iress.com>
+
+Co-authored-by: Ashley Davis <ashley@codecapers.com.au>
+Co-authored-by: George Cheng <Gerhut@gmail.com>
+Co-authored-by: Jay <jasonsaayman@gmail.com>
+Co-authored-by: Kevin Kirsche <Kev.Kirsche+GitHub@gmail.com>
+Co-authored-by: Remco Haszing <remcohaszing@gmail.com>
+Co-authored-by: Taemin Shin <cprayer13@gmail.com>
+Co-authored-by: Tim Gates <tim.gates@iress.com>
+
 Co-authored-by: Xianming Zhong <chinesedfan@qq.com>
 Co-authored-by: Jay <jasonsaayman@gmail.com>
 Co-authored-by: Jonathan Foster <jonathan@jonathanfoster.io>
 Co-authored-by: Remco Haszing <remcohaszing@gmail.com>
 Co-authored-by: Xianming Zhong <chinesedfan@qq.com>
+
 Co-authored-by: George Cheng <Gerhut@GMail.com>
+Co-authored-by: George Cheng <Gerhut@gmail.com>
 Co-authored-by: Jay <jasonsaayman@gmail.com>
 Co-authored-by: Kevin Kirsche Kev.Kirsche+<GitHub@gmail.com>
 Co-authored-by: Remco Haszing <remcohaszing@gmail.com>
@@ -42,6 +54,11 @@ Co-authored-by: woo jae woojae.<jang26@gmail.com>
 Co-authored-by: Bruno Vaulawerneck <brunovaulawerneck@gmail.com>
 Co-authored-by: Daniel Espendiller <daniel@espendiller.net>
 Co-authored-by: OrahKokos marko.paroski.<ns@gmail.com>
+Co-authored-by: Zachary Schroeder <z.schro@gmail.com>
+Co-authored-by: woo jae <woojae.jang26@gmail.com>
+Co-authored-by: Bruno Vaulawerneck <brunovaulawerneck@gmail.com>
+Co-authored-by: Daniel Espendiller <daniel@espendiller.net>
+Co-authored-by: OrahKokos <marko.paroski.ns@gmail.com>
 Co-authored-by: wordknight <wordedknight@gmail.com>
 Co-authored-by: Allan Cruz <57270969+Allanbcruz@users.noreply.github.com>
 Co-authored-by: Daniel Lopretto <timemachine3030@users.noreply.github.com>
