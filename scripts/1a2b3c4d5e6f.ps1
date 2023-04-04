@@ -3,22 +3,22 @@ cd "C:\Users\Noble\SOURCES\REPOS\test"
 
 git pull origin main
 
-git checkout -b wordknight
+git checkout -b wordknight-patch
 
 git add .
 
-git commit -m "Added WordKnight as collaborator
+git commit -m "Added wordknight as collaborator
 
-Co-authored-by: WordKnight <wordedknight@gmail.com>
+Co-authored-by: wordknight <wordedknight@gmail.com>
 "
 
 git pull origin main
 
-git push -u origin wordknight
+git push -u origin wordknight-patch
 
-hub pull-request -m "Created wordknight branch" -h wordknight -b main -f
+hub pull-request -m "Created wordknight-patch branch" -h wordknight-patch -b main -f
 
 # Only delete branch after all pulls have been merged by Golden
-# git branch -d wordknight
+# git branch -d wordknight-patch
 
-# git push origin --delete wordknight
+# git push origin --delete wordknight-patch
