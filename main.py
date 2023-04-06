@@ -24,3 +24,4 @@ def commit_repository(YAML_FILE):
 
 if __name__ == '__main__': 
     commit_repository(update_file_to_commit())
+print("Testing");
