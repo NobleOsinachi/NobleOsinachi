@@ -30,7 +30,7 @@
 
 #
 
- <h1 align="center">What I use:</h1>
+<h1 align="center">What I use:</h1>
 
 <h3 align="center">Languages and Frameworks:</h3>
 
@@ -39,11 +39,7 @@
 <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 </p>
 
-
- <!--  <h3 align="center">Tools:</h3> <p align="center"> <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>  </p>  <h3 align="center">Platforms:</h3> <p align="center"> <code><img width="15%" src="https://user-images.githubusercontent.com/25397800/150622491-a29f117b-c6a1-4b98-a45d-e2cbf1d6f59c.png"></code>  -->
- 
- 
- 
+<!--  <h3 align="center">Tools:</h3> <p align="center"> <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>  </p>  <h3 align="center">Platforms:</h3> <p align="center"> <code><img width="15%" src="https://user-images.githubusercontent.com/25397800/150622491-a29f117b-c6a1-4b98-a45d-e2cbf1d6f59c.png"></code>  -->
  
  <h2 align="center">Connect with me:</h2>
  <p align="center">
@@ -52,13 +48,4 @@
  <a href="https://www.youtube.com/@NobleOsinachi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" width="10%" /></a>
  <a href="https://discordapp.com/users/850880785653170206" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg" alt="NobleOsinachi#6375" width="10%" /></a>
  </p>
-"# redesigned-garbanzo" 
-# Learning Github
-
-Welcome to my Github repository where I will be reinforcing my knowledge of Github and earning achievement badges along the way.
-
-This repository serves as a platform for me to practice using various Github features and tools, such as version control, branching, merging, and pull requests. By doing so, I hope to become more proficient in using Github for future projects and collaborations.
-
-Additionally, I plan to automate daily commits to this repository to ensure consistent activity and progress tracking.
-
-Feel free to explore the contents of this repository and follow along with my journey of learning and improving my Github skills.
+ 
