@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NobleOsinachi/test.git"
+    "url": "git+https://github.com/NobleOsinachi/NobleOsinachi.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NobleOsinachi/test/issues"
+    "url": "https://github.com/NobleOsinachi/NobleOsinachi/issues"
   },
-  "homepage": "https://github.com/NobleOsinachi/test#readme",
+  "homepage": "https://github.com/NobleOsinachi/NobleOsinachi#readme",
   "dependencies": {
     "uuid": "^9.0.0"
   }
