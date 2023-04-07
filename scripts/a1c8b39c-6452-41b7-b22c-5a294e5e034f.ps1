@@ -1,26 +1,13 @@
-const { v4: uuidv4 } = require('uuid');
-const { exec } = require('child_process');
-const fs = require('fs');
 
-// Reading file synchronously
-const collaborators = fs.readFileSync('./collaborators.txt', 'utf8');
-console.log(collaborators);
-
-
-const fileName = uuidv4();
-
-const branchName = fileName.substring(0, 8);
-
-const fileContent = `
-cd "${__dirname}"
+cd "C:\Users\Noble\SOURCES\REPOS\NobleOsinachi"
 
 git pull origin main
 
-git checkout -b ${branchName}
+git checkout -b a1c8b39c
 
 git add .
 
-git commit -m "Created ${branchName} branch
+git commit -m "Created a1c8b39c branch
 
 Co-authored-by: Abdulazeez <abdulazeezsalihu41@gmail.com>
 Co-authored-by: Alireza Zahiri <itsalireza.zr@gmail.com>
@@ -74,41 +61,12 @@ Co-authored-by: woo jae <woojae.jang26@gmail.com>
 
 git pull origin main
 
-git push -u origin ${branchName}
+git push -u origin a1c8b39c
 
-hub pull-request -m "Created ${branchName} branch" -h ${branchName} -b main -f
+hub pull-request -m "Created a1c8b39c branch" -h a1c8b39c -b main -f
 
 # Only delete branch after all pulls have been merged by Golden
-# git branch -d ${branchName}
+# git branch -d a1c8b39c
 
-# git push origin --delete ${branchName}
+# git push origin --delete a1c8b39c
 
-`;
-
-// save script as powershell instead of batch
-let file = `scripts\\${fileName + '.ps1'}`;
-
-fs.writeFile(file, fileContent, (err) => {
-    if (err) throw err;
-    console.log('The file has been created!');
-
-    // execute the cmd file in a new command prompt window
-    let command = `start cmd /c ${file}`;
-
-    //run in powershell instead 
-    command = `start powershell .\\${file}`;
-
-    console.log(command);
-
-    exec(command, (error, stdout, stderr) => {
-        if (error) {
-            console.error(`Error: ${error.message}`);
-            return;
-        }
-        if (stderr) {
-            console.error(`stderr: ${stderr}`);
-            return;
-        }
-        console.log(`stdout: ${stdout}`);
-    });
-});
