@@ -1,3 +1,14 @@
+
+cd "C:\Users\Noble\SOURCES\REPOS\NobleOsinachi"
+
+git pull origin main
+
+git checkout -b 28138ad2
+
+git add .
+
+git commit -m "Created 28138ad2 branch
+
 Co-authored-by: Abdulazeez <abdulazeezsalihu41@gmail.com>
 Co-authored-by: Alireza Zahiri <itsalireza.zr@gmail.com>
 Co-authored-by: Allan Cruz <57270969+Allanbcruz@users.noreply.github.com>
@@ -28,3 +39,17 @@ Co-authored-by: PraiseGeek <praisegeek@gmail.com>
 Co-authored-by: Precious Adedibu <adedibuprecious@gmail.com>
 Co-authored-by: Remco Haszing <remcohaszing@gmail.com>
 Co-authored-by: Rogelio Morrell <molekilla@gmail.com>
+
+"
+
+git pull origin main
+
+git push -u origin 28138ad2
+
+hub pull-request -m "Created 28138ad2 branch" -h 28138ad2 -b main -f
+
+# Only delete branch after all pulls have been merged by Golden
+# git branch -d 28138ad2
+
+# git push origin --delete 28138ad2
+
