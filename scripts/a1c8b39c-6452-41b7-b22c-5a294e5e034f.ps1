@@ -1,3 +1,14 @@
+
+cd "C:\Users\Noble\SOURCES\REPOS\NobleOsinachi"
+
+git pull origin main
+
+git checkout -b a1c8b39c
+
+git add .
+
+git commit -m "Created a1c8b39c branch
+
 Co-authored-by: Abdulazeez <abdulazeezsalihu41@gmail.com>
 Co-authored-by: Alireza Zahiri <itsalireza.zr@gmail.com>
 Co-authored-by: Allan Cruz <57270969+Allanbcruz@users.noreply.github.com>
@@ -22,7 +33,7 @@ Co-authored-by: Joshua-Chris <joshuadgreat04@gmail.com>
 Co-authored-by: Kevin Kirsche <Kev.Kirsche+GitHub@gmail.com>
 Co-authored-by: Nguyễn Xuân Nhân <nguyenxuannhan407@gmail.com>
 Co-authored-by: Nicolas Riesco <enquiries@nicolasriesco.net>
-Co-authored-by: Noble Osinachi 💭 <150407018@live.unilag.edu.ng>
+Co-authored-by: Noble Osinachi <150407018@live.unilag.edu.ng>
 Co-authored-by: OrahKokos <marko.paroski.ns@gmail.com>
 Co-authored-by: PraiseGeek <praisegeek@gmail.com>
 Co-authored-by: Precious Adedibu <adedibuprecious@gmail.com>
@@ -45,3 +56,17 @@ Co-authored-by: masaun <masaun@protonmail.com>
 Co-authored-by: mathias-ndasi <mathiasndasi@gmail.com>
 Co-authored-by: sifatfaysal <sifatfaysall@gmail.com>
 Co-authored-by: woo jae <woojae.jang26@gmail.com>
+💭
+"
+
+git pull origin main
+
+git push -u origin a1c8b39c
+
+hub pull-request -m "Created a1c8b39c branch" -h a1c8b39c -b main -f
+
+# Only delete branch after all pulls have been merged by Golden
+# git branch -d a1c8b39c
+
+# git push origin --delete a1c8b39c
+
