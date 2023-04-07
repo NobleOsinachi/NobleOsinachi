@@ -22,9 +22,7 @@ git add .
 
 git commit -m "Created ${branchName} branch
 
-Co-authored-by: Noble Osinachi <150407018@live.unilag.edu.ng>
-Co-authored-by: PraiseGeek <praisegeek@gmail.com>
-Co-authored-by: Precious Adedibu <adedibuprecious@gmail.com>
+${collaborators}
 "
 
 git pull origin main
