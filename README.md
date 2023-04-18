@@ -28,8 +28,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=NobleOsinachi&theme=darkhub&no-bg=false&margin-w=15&margin-h=15&row=2&column=3&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="NobleOsinachi" /></a></div>
 
 
-#
-
 <h1 align="center">What I use:</h1>
 
 <h3 align="center">Languages and Frameworks:</h3>
