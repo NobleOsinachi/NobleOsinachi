@@ -5,15 +5,13 @@
 
 ![followers](https://img.shields.io/github/followers/NobleOsinachi?style=social) 
 
-
 <table>
 <tr>
-<td>
-
+ <td>
 ![NobleOsinachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NobleOsinachi&theme=tokyonight&show_icons=true)
-
-</td>
-<td> 
+ </td>
+<td>
+ 
 <a href="https://discord.com/users/850880785653170206"><img align="right" src="https://lanyard.cnrad.dev/api/850880785653170206?idleMessage=ʕつ•ᴥ•ʔつ&hideBadges=true&bg=+23409025778189" /></a>
 
 </td></tr></table><br>
