@@ -8,7 +8,9 @@
 <table>
 <tr>
  <td>
+  
 ![NobleOsinachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NobleOsinachi&theme=tokyonight&show_icons=true)
+ 
  </td>
 <td>
  
