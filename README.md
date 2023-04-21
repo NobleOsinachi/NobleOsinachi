@@ -3,6 +3,8 @@
 <h3 align="center">Systems Engineer and software developer </h3>
 <div    align="center">
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=NobleOsinachi)
 ![followers](https://img.shields.io/github/followers/NobleOsinachi?style=social) 
 
 <table>
