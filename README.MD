@@ -3,6 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NobleOsinachi&label=Profile%20views&color=0e75b6&style=flat" alt="NobleOsinachi" /> </p>
 
 
+<a href="https://github.com/NobleOsinachi/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20cotechlevy@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
+
 I'm Noble, a passionate backend developer with expertise in various technologies and programming languages. I thrive on building robust systems and solving complex challenges. My dedication to software architecture and understanding how server-side code communicates with databases has been instrumental in my growth as a developer.
 
 Key things you should know about me...
@@ -407,12 +409,6 @@ Available for collaborations.
 </th>
 </tr>
 <td >
--->
-
-
-
-
-<a href="https://github.com/NobleOsinachi/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20cotechlevy@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NobleOsinachi&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
@@ -425,10 +421,8 @@ Available for collaborations.
 </td>
 </tr>
 </table>
-<div align="center">
+-->
 
 ![Snake animation](images/github-contribution-grid-snake.svg)
-
-</div>
 
 ### You like it ! Kindly, give it a star <img src="https://img.icons8.com/fluency/20/000000/star.png" /> [here](https://github.com/NobleOsinachi/NobleOsinachi/) !
