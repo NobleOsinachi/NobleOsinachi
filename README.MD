@@ -185,9 +185,6 @@ src="https://img.shields.io/github/followers/NobleOsinachi?logo=github&style=for
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-
-
 <div >
 <img src="https://img.icons8.com/fluency/30/000000/star.png" />
 <img src="https://img.icons8.com/fluency/30/000000/star.png" />
@@ -199,8 +196,6 @@ src="https://img.shields.io/github/followers/NobleOsinachi?logo=github&style=for
 
 <p > <img src="https://komarev.com/ghpvc/?username=NobleOsinachi&label=Profile%20viewers:&color=FE7A16&style=for-the-badge" alt="NobleOsinachi" /> </p>
  
-
-
 <a href="https://github.com/NobleOsinachi/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=
 .NET Software Engineer;
 Full stack web developer;
@@ -211,10 +206,6 @@ Available for collaborations.
 &font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
 </p>
 
-
-
-
-
 <!-- BADGES -->
 <p >
 <img src="https://img.shields.io/badge/Interest-Artificial Intelligence-blue"/>
@@ -223,7 +214,6 @@ Available for collaborations.
 <img src="https://img.shields.io/badge/Lives-Nairobi-blue" />
 <img src="https://img.shields.io/badge/Language-English%2C%20Swahili-blue" />
 </p><br>
-
 
 <div >
 
@@ -235,8 +225,6 @@ Available for collaborations.
 ![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) 
 
 </div>
-
-
 
 </h3> <br><br>
 <!--  
@@ -375,11 +363,6 @@ Available for collaborations.
 </tr>
 </table>
 </div>
-
-
-
-
-
 ## 📊 GitHub Statistics
 <table>
 <tr>
@@ -409,11 +392,7 @@ Available for collaborations.
 </th>
 </tr>
 <td >
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NobleOsinachi&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
-
-
 </td>
 <td >
 <p >
