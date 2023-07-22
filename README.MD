@@ -237,6 +237,7 @@ Available for collaborations.
 
 
 </h3> <br><br>
+<!--  
 
 ## Skills and Tools
 <div >
@@ -401,9 +402,17 @@ Available for collaborations.
 
 <tr>
 <tr>
-<th colspan="7"><a href="https://github.com/NobleOsinachi/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20cotechlevy@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a></th>
+<th colspan="7">
+
+</th>
 </tr>
 <td >
+-->
+
+
+
+
+<a href="https://github.com/NobleOsinachi/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20cotechlevy@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NobleOsinachi&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
