@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NobleOsinachi&label=Profile%20views&color=0e75b6&style=flat" alt="NobleOsinachi" /> </p>
 
 
-<a href="https://github.com/NobleOsinachi/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20cotechlevy@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
+<a href="https://github.com/NobleOsinachi/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20nobleosinachi98@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
 
 I'm Noble, a passionate backend developer with expertise in various technologies and programming languages. I thrive on building robust systems and solving complex challenges. My dedication to software architecture and understanding how server-side code communicates with databases has been instrumental in my growth as a developer.
 
