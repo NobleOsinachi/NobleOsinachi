@@ -24,12 +24,10 @@ src="https://img.shields.io/twitter/follow/NobleOsinachi?logo=twitter&style=for-
 src="https://img.shields.io/github/followers/NobleOsinachi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
-### Socials
 
 
 
-
-## Social and Contact Info.
+## Social Media and Contact Info.
 
 <p >
 <a href="https://nobleosinachi.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-fff?style=for-the-badge&logo=googlechrome&logoColor=blue" alt="Portfolio" /></a>&nbsp;
@@ -39,7 +37,7 @@ src="https://img.shields.io/github/followers/NobleOsinachi?logo=github&style=for
 <a href="https://www.hackerrank.com/NobleOsinachi"><img src="https://img.shields.io/badge/hackerrank-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=#38B000" alt="Dev.to" /></a>&nbsp; &nbsp;<a href="https://drive.google.com/file/d/1fIxesdVC1Org99Ec41JhCb53gu7_gvDh"><img src="https://img.shields.io/badge/Résumé-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Dev.to" /></a>&nbsp;
 </p><br>
 
-<p align="center"> 
+<p align=""> 
 <a href="https://www.codepen.io/NobleOsinachi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> 
 <a href="https://codesandbox.io/u/NobleOsinachi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> 
 <a href="https://www.dev.to/NobleOsinachi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> 
@@ -54,70 +52,30 @@ src="https://img.shields.io/github/followers/NobleOsinachi?logo=github&style=for
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://bento.me/nobleosinachi) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nobleosinachi) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/noble.chukwukere.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&laogoColor=white)](https://instagram.com/nobleosinachi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nobleosinachi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nobleosinachi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/nobleosinachi) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Noble-Osinachi) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/nobleosinachi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13560831/nobleosinachi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nobleosinachi) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/nobleosinachi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nobleosinachi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nobleosinachi) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/nobleosinachi) 
 
-# 💻 Tech Stack:
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+## 💻 Tech Stack, Tools & Frameworks
 <!-- 
-
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-![@NobleOsinachi's Holopin board](https://holopin.me/NobleOsinachi)
-
-
-
-
-<a href="http://www.github.com/NobleOsinachi"><img src="https://github-readme-stats.vercel.app/api?username=NobleOsinachi&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NobleOsinachi's GitHub stats" /></a>
-
-<!-- <a href="http://www.github.com/NobleOsinachi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NobleOsinachi&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
-
-<!-- <a href="http://www.github.com/NobleOsinachi"><img src="https://activity-graph.herokuapp.com/graph?username=NobleOsinachi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
-
-<!-- [![NobleOsinachi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nobleosinachi)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-## 🌐 Socials:
-
-
-
-
-
-### Skills
-
-
-
-
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> -->
+<p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://learn.microsoft.com/en-us/shows/lets-learn-dotnet/lets-learn-dotnet-csharp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<!-- 
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> -->
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> 
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<!-- 
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a> -->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> 
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<!-- 
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a> -->
-<!-- 
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a> -->
-<!-- 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> -->
-<!-- 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> -->
-<!-- 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> -->
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+ 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
+ -->
 
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
@@ -159,38 +117,6 @@ src="https://img.shields.io/github/followers/NobleOsinachi?logo=github&style=for
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/NobleOsinachi/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NobleOsinachi/)
 
-
-<!-- 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nobleosinachi&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nobleosinachi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nobleosinachi&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nobleosinachi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=nobleosinachi)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nobleosinachi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=nobleosinachi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nobleosinachi) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nobleosinachi) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/nobleosinachi) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nobleosinachi) 
--->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <div >
 <img src="https://img.icons8.com/fluency/30/000000/star.png" />
 <img src="https://img.icons8.com/fluency/30/000000/star.png" />
@@ -200,7 +126,7 @@ src="https://img.shields.io/github/followers/NobleOsinachi?logo=github&style=for
 </div>
 <br>
 
-<p > <img src="https://komarev.com/ghpvc/?username=NobleOsinachi&label=Profile%20viewers:&color=FE7A16&style=for-the-badge" alt="NobleOsinachi" /> </p>
+<!-- <p > <img src="https://komarev.com/ghpvc/?username=NobleOsinachi&label=Profile%20viewers:&color=FE7A16&style=for-the-badge" alt="NobleOsinachi" /> </p> -->
  
 <a href="https://github.com/NobleOsinachi/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=
 .NET Software Engineer;
@@ -214,11 +140,11 @@ Available for collaborations.
 
 <!-- BADGES -->
 <p >
-<img src="https://img.shields.io/badge/Interest-Artificial Intelligence-blue"/>
-<img src="https://img.shields.io/badge/Hobby-Coding-blue" />
-<img src="https://img.shields.io/badge/Programming-Python%2C%20JavaScript-blue" />
-<img src="https://img.shields.io/badge/Lives-Nairobi-blue" />
-<img src="https://img.shields.io/badge/Language-English%2C%20Swahili-blue" />
+<img src="https://img.shields.io/badge/Interest-Enterprise Software Development, dApps-blue"/>
+<img src="https://img.shields.io/badge/Hobby-Coding, CODM-blue" />
+<img src="https://img.shields.io/badge/Programming-C%23%2C%20JavaScript%2C%20Solidity-blue" />
+<img src="https://img.shields.io/badge/Lives-Nigeria-blue" />
+<!-- <img src="https://img.shields.io/badge/Language-English%2C%20Swahili-blue" /> -->
 </p><br>
 
 <div >
@@ -227,13 +153,13 @@ Available for collaborations.
 ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) 
 ![](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE) 
 ![](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) 
-![](https://img.shields.io/badge/Kaggle-fff?style=for-the-badge&logo=Kaggle&logoColor=#0077B6) 
+![](https://img.shields.io/badge/CODE%20WITH%20MOSH-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 ![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) 
 
 </div>
 
-</h3> <br><br>
-<!--  
+</h3> <br>
+<!-- 
 
 ## Skills and Tools
 <div >
@@ -244,31 +170,31 @@ Available for collaborations.
 </tr>
 </thead>
 <tr>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> </td>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> </td>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> </td>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
 </tr>
 <tr> 
-<td  width=110>Python</td>
-<td  width=110>JavaScript</td>
-<td  width=110>Typescript</td>
-<td  width=110>CSS</td>
-<td  width=110>HTML</td>
+<td width=110>Python</td>
+<td width=110>JavaScript</td>
+<td width=110>Typescript</td>
+<td width=110>CSS</td>
+<td width=110>HTML</td>
 </tr>
 <tr>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> </td>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> </td>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> </td>
 <tr> 
-<td  width=110>PostgreSQL</td>
-<td  width=110>MySQL</td>
-<td  width=110>SQLite</td>
-<td  width=110>Ba$h</td>
-<td  width=110>Markdown</td>
+<td width=110>PostgreSQL</td>
+<td width=110>MySQL</td>
+<td width=110>SQLite</td>
+<td width=110>Ba$h</td>
+<td width=110>Markdown</td>
 </tr>
 </table>
 
@@ -280,24 +206,24 @@ Available for collaborations.
 </tr>
 </thead>
 <tr>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/> </td>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/django/django-original.svg"/> </td>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/> </td>
-<td  width=110><img width=60 src="https://user-images.githubusercontent.com/27622683/192119071-da8aff75-02b1-4c6d-8232-507b9454cd49.png"/></td>
-<td  width=110><img width=60 src="https://user-images.githubusercontent.com/27622683/192119394-0284fdfc-3ad2-460c-8b57-5ed13a2cbfc0.png"/></td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/django/django-original.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/> </td>
+<td width=110><img width=60 src="https://user-images.githubusercontent.com/27622683/192119071-da8aff75-02b1-4c6d-8232-507b9454cd49.png"/></td>
+<td width=110><img width=60 src="https://user-images.githubusercontent.com/27622683/192119394-0284fdfc-3ad2-460c-8b57-5ed13a2cbfc0.png"/></td>
 <tr > 
-<td  width=110>Angular</td>
-<td  width=110>Django</td>
-<td  width=110>Flask</td>
-<td  width=110>Scrum</td>
-<td  width=110>T.D.D.</td>
+<td width=110>Angular</td>
+<td width=110>Django</td>
+<td width=110>Flask</td>
+<td width=110>Scrum</td>
+<td width=110>T.D.D.</td>
 </tr>
 <tr>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </td>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/> </td>
 <tr > 
-<td  width=110>Bootstrap</td>
-<td  width=110>JQuery</td>
+<td width=110>Bootstrap</td>
+<td width=110>JQuery</td>
 </tr>
 </tr>
 </table>
@@ -308,46 +234,46 @@ Available for collaborations.
 </tr>
 </thead>
 <tr>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/> </td>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> </td>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </td>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> </td>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/trello/trello-plain.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/trello/trello-plain.svg"/> </td>
 </tr>
 <tr> 
-<td  width=110>Heroku</td>
-<td  width=110>Figma</td>
-<td  width=110>Git</td>
-<td  width=110>GitHub</td>
-<td  width=110>Trello</td>
+<td width=110>Heroku</td>
+<td width=110>Figma</td>
+<td width=110>Git</td>
+<td width=110>GitHub</td>
+<td width=110>Trello</td>
 </tr>
 <tr>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </td>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/> </td>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/> </td>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/> </td> 
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> </td> 
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/> </td> 
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> </td> 
 </tr>
 <tr> 
-<td  width=110>VSCode</td>
-<td  width=110>Pycharm</td>
-<td  width=110>IntelliJ</td>
-<td  width=110>Vim</td>
-<td  width=110>Google Cloud</td>
+<td width=110>VSCode</td>
+<td width=110>Pycharm</td>
+<td width=110>IntelliJ</td>
+<td width=110>Vim</td>
+<td width=110>Google Cloud</td>
 </tr>
 <tr>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> </td>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg"/> </td>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/> </td>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/> </td>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/> </td>
 </tr>
 <tr> 
-<td  width=110>Docker</td>
-<td  width=110>Jenkins</td>
-<td  width=110>Jupyter</td>
-<td  width=110>Jira</td>
-<td  width=110>CodePen</td>
+<td width=110>Docker</td>
+<td width=110>Jenkins</td>
+<td width=110>Jupyter</td>
+<td width=110>Jira</td>
+<td width=110>CodePen</td>
 </tr>
 </table>
 <table>
@@ -357,15 +283,15 @@ Available for collaborations.
 </tr>
 </thead>
 <tr>
-<td  width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </td>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> </td>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/> </td>
-<td  width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/> </td>
+<td width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/> </td>
+<td width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/> </td>
 <tr> 
-<td  width=110>Windows</td>
-<td  width=110>Linux</td>
-<td  width=110>Ubuntu</td>
-<td  width=110>Debian</td>
+<td width=110>Windows</td>
+<td width=110>Linux</td>
+<td width=110>Ubuntu</td>
+<td width=110>Debian</td>
 </tr>
 </table>
 </div>
@@ -374,10 +300,10 @@ Available for collaborations.
 <tr>
 <td>
 <a href="https://github.com/NobleOsinachi/NobleOsinachi">
-<img  src="https://github-readme-stats.vercel.app/api?username=NobleOsinachi&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Levy's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=NobleOsinachi&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Levy's GitHub Stats" />
 </td>
 <td>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobleOsinachi&theme=highcontrast&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobleOsinachi&theme=highcontrast&layout=compact" />
 </a>
 </td>
 </tr>
@@ -410,4 +336,4 @@ Available for collaborations.
 
 ![Snake animation](images/github-contribution-grid-snake.svg)
 
-### You like it ! Kindly, give it a star <img src="https://img.icons8.com/fluency/20/000000/star.png" /> [here](https://github.com/NobleOsinachi/NobleOsinachi/) !
+## You like it ! Kindly, give it a star <img src="https://img.icons8.com/fluency/20/000000/star.png" /> [here](https://github.com/NobleOsinachi/NobleOsinachi/) !
