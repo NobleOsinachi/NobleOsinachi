@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NobleOsinachi&label=Profile%20views&color=0e75b6&style=flat" alt="NobleOsinachi" /> </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Developer;Systems Engineer;Full-Stack+Web+Developer!;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Developer;Systems+Engineer;Full-Stack+Web+Developer!;)
 
 
 <a href="https://nobleosinachi.github.io/">
