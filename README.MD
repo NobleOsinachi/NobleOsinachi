@@ -4,7 +4,7 @@
 
 
 <a href="https://nobleosinachi.github.io/?fleh=github.com/NobleOsinachi/readme-typing-svg">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Developer;Systems Engineer;Full-Stack+Web+Developer!;)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Developer;Systems Engineer;Full-Stack+Web+Developer!;)
 </a>
 
 I'm Noble, a passionate backend developer with expertise in various technologies and programming languages. I thrive on building robust systems and solving complex challenges. My dedication to software architecture and understanding how server-side code communicates with databases has been instrumental in my growth as a developer.
