@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/dawidolko/dawidolko/main/assets/Bottom_up.svg" alt="welcome to my profile" />
-# 💫 Noble Osinachi:
+
+# 💫 Noble Osinachi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NobleOsinachi&label=Profile%20views&color=0e75b6&style=flat" alt="NobleOsinachi" /> </p>
 
