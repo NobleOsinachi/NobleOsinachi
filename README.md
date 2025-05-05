@@ -15,8 +15,6 @@ Key things you should know about me...
 - 🌍 I'm based in Lagos, Nigeria.
 - 🧠 I'm learning React, Next JS & Tailwind, Node JS, Solidity.
 - 🤝 I'm open to collaborating on Open Source Projects
-- 🎮 My Call of Duty Mobile IGN is NobleOsinachi
-- ⚡ If you want to address me, kindly use Sir !important
 - ✉️ You can contact me at
   nobleosinachi98@gmail.com
 
