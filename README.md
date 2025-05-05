@@ -12,8 +12,7 @@ I'm Noble, a passionate backend developer with expertise in various technologies
 
 Key things you should know about me...
 
-- 🌍 I'm based in Lagos, Nigeria.
-- 🧠 I'm learning React, Next JS & Tailwind, Node JS, Solidity.
+- 🧠 I'm proficient in React JS, Next JS, Node JS, and Solidity.
 - 🤝 I'm open to collaborating on Open Source Projects
 - ✉️ You can contact me at
   nobleosinachi98@gmail.com
